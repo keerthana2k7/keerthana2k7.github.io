@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Coimbatore, India"
+address = "Namakkal, India"
 favicon = "/favicon.ico"
 firstName = "KEERTHANA"
 lastName = "R"
@@ -24,11 +24,11 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
+link = "https://www.linkedin.com/in/keerthana-rajendran357"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/sathishk/"
+link = "https://github.com/keerthana2k7"
 name = "GitHub"
 
 [outputs]
