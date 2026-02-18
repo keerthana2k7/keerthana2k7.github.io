@@ -21,7 +21,7 @@ sections = ["skills","publications","creations","contributions","experience","ed
 [params.google]
 
 [params.google.analytics]
-trackerID = "XX-123446-01"
+trackerID = "XX-123446-04"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/keerthana-rajendran357"
