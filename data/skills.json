@@ -1,10 +1,21 @@
 [
   {
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","html","linux","bash","javascript","css"]
+    "grouping": "Languages, Operating Systems & Tools",
+    "skills": [
+      { "name": "Java" },
+      { "name": "Python" },
+      { "name": "Git" },
+      { "name": "HTML" },
+      { "name": "Linux" },
+      { "name": "Bash" },
+      { "name": "JavaScript" },
+      { "name": "CSS" }
+    ]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "MySQL"]
+    "grouping": "Platform Development & Administration",
+    "skills": [
+      { "name": "MySQL" }
+    ]
   }
 ]
